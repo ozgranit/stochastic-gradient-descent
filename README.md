@@ -13,7 +13,7 @@ in SGD we have to select external parameters η0 and C,
 we will use the training set to train classifiers for various parameter values
 and use the validation set to check how well they do.
 
-we try to optimize η0 and C.
+**we try to optimize η0 and C.**
 
 ### SGD Algorithm:
 - at each iteration t = 1,...T we sample i uniformly; 
